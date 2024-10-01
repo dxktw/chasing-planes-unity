@@ -1,7 +1,5 @@
 # ChasingPlanes
 
-![chasing planes GIF](https://github.com/RedisMadani/chasing-planes-unity/assets/136177376/c183e0e6-b718-477d-b611-4af7ec1417fc)
-
 ## Overview
 
 ChasingPlanes, developed by Jetlight Studio and released under the GitHub license, is an engaging 2D mobile game that offers players an exhilarating experience of piloting an aircraft while dodging incoming missiles.
